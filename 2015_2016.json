@@ -1,0 +1,730 @@
+[
+    {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "inttoduction to computer In agriculture",
+    "code": "AGR 204.1",
+    "session": "2015/2016",
+    "topics":["Web 2.0", "Social Media", "ICT", "Geo-location", "Blogging", "Social Networking", "Online Safety", "Google", "Instant Messaging", "Remote Collaboration", "Networking", "VOIP", "Agriculture", "Microsoft Excel", "Microsoft PowerPoint", "File Management", "Cell Referencing", "Functions", "Ribbon", "File Formats", "Drawing Tools", "Computer Science", "Graphic Design", "CorelDRAW"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+
+
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": ["Web 2.0", "Social Media", "ICT"],
+    "Question": {
+      "content": "Which of these three has a high capacity of integration with other web 2.0 tools?",
+      "type": "OBJ",
+      "options": ["Google+", "LinkedIn", "Facebook"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Web 2.0 Integration</h4><p>The answer is <strong>Google+</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>Why Google+?</strong><br>Google+ was deeply integrated into the Google ecosystem — connecting with YouTube, Gmail, Google Drive, Google Maps, and more. This gave it a uniquely high degree of cross-platform web 2.0 integration compared to Facebook or LinkedIn.</div><div><strong style='color: var(--strongColor);'>What about the others?</strong><br>Facebook and LinkedIn are strong social platforms, but their integration with external web 2.0 tools was more limited and walled-off compared to Google+.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Google+"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": ["Web 2.0", "Social Media", "Geo-location"],
+    "Question": {
+      "content": "Which of these three does not have a Geo-location option with map layer?",
+      "type": "OBJ",
+      "options": ["Facebook", "LinkedIn", "Google+"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Geo-location on Social Platforms</h4><p>The answer is <strong>LinkedIn</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is Geo-location?</strong><br>Geo-location is a feature that uses your device's location to show map-based information — like check-ins, nearby events, or location tags on posts.</div><div><strong style='color: var(--strongColor);'>Why not LinkedIn?</strong><br>LinkedIn is a professional networking platform focused on career and business. It does not offer geo-location or map layer features. Facebook and Google+ both supported location tagging and map integration.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "LinkedIn"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": ["Web 2.0", "Blogging", "ICT"],
+    "Question": {
+      "content": "A blog is simply defined as ___________.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>What is a Blog?</h4><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>Definition:</strong><br>A <em>blog</em> (short for weblog) is a kind of website where entries — called posts — are made regularly and displayed in reverse chronological order (newest first), similar to a journal or diary.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'><strong>Key features of a blog:</strong><br>• Written in journal style<br>• Usually maintained by one person or a small group<br>• Allows readers to comment and interact</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A kind of website where entries are made in journal style."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": ["Web 2.0", "ICT"],
+    "Question": {
+      "content": "State three main key practices of web 2.0.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Key Practices of Web 2.0</h4><p>Web 2.0 refers to websites and apps that allow users to interact and collaborate — unlike the old read-only Web 1.0.</p><div style='margin-bottom: 8px;'><strong style='color: var(--strongColor);'>1. Web Development and Web Design</strong><br>Building interactive, user-friendly sites with modern technologies.</div><div style='margin-bottom: 8px;'><strong style='color: var(--strongColor);'>2. Facilitating Communication and Information Sharing</strong><br>Tools like social media, wikis, and blogs allow people to share ideas instantly.</div><div><strong style='color: var(--strongColor);'>3. User-centred Design and Collaboration on the World Wide Web</strong><br>The user is at the centre — platforms are designed around community participation and co-creation.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Web development and web design; Facilitating communication and information sharing; User-centre design and collaboration on the World Wide Web."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": ["Web 2.0", "Blogging"],
+    "Question": {
+      "content": "State two key steps in creating your blog.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Steps to Create a Blog</h4><div style='margin-bottom: 8px;'><strong style='color: var(--strongColor);'>Step 1 – Create and Customize Your Content</strong><br>Choose a blogging platform (e.g., Blogger, WordPress), then write and style your posts to reflect your theme or purpose.</div><div><strong style='color: var(--strongColor);'>Step 2 – Inform Your Target Audience About Your Post</strong><br>Share your blog on social media, via email, or through SEO so the right people find and read your content.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Create and customize your content.<br>ii. Inform your target audience about your post."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": ["Web 2.0", "Social Networking", "Online Safety"],
+    "Question": {
+      "content": "State two risks of online social networking.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Risks of Online Social Networking</h4><div style='margin-bottom: 8px;'><strong style='color: var(--strongColor);'>Risk 1 – Lacking Privacy</strong><br>Personal information shared online can be accessed, misused, or stolen by unauthorized parties.</div><div><strong style='color: var(--strongColor);'>Risk 2 – Dependency on the Service Provider</strong><br>Your content, connections, and data all depend on the platform. If it shuts down or changes policies, you lose everything.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Lacking privacy.<br>ii. Dependency on the service provider."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": ["Web 2.0", "Social Networking"],
+    "Question": {
+      "content": "___________ is the practice of individuals communicating around a common interest using online tools and social networking sites.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>What is Social Networking?</h4><p>The answer is <strong>Social Networking</strong>.</p><div><strong style='color: var(--strongColor);'>Explanation:</strong><br>Social networking is the use of internet-based tools to connect with others who share similar interests, goals, or communities. Platforms like Twitter, Facebook, and LinkedIn are classic examples where individuals communicate and collaborate around shared topics.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social networking"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": ["Web 2.0", "Social Media"],
+    "Question": {
+      "content": "Social media is not about tools and technologies. State what it is about.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The True Purpose of Social Media</h4><p>The answer is <strong>Human interaction and communication</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>Key Insight:</strong><br>Social media exists to connect people — not to showcase technology. The tools (apps, platforms) are just the vehicle. The real value lies in the conversations, relationships, and communities people build using those tools.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>Think of it this way: a phone is a tool, but a call between friends is <em>human interaction</em>. Social media works the same way.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Human interaction and communication."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": ["Web 2.0", "Social Media", "ICT"],
+    "Question": {
+      "content": "Which of these three has a high capacity of integration with other web 2.0 tools?",
+      "type": "OBJ",
+      "options": ["Google+", "LinkedIn", "Facebook"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Web 2.0 Integration (Revisited)</h4><p>The answer is <strong>Google+</strong>.</p><div>Google+ was tightly woven into the broader Google ecosystem — including Search, YouTube, Maps, and Gmail — making it the most integrated of the three options with other web 2.0 tools.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Google+"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": ["Web 2.0", "ICT"],
+    "Question": {
+      "content": "Web 2.0 was made possible by ___________ and ___________.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>How Web 2.0 Became Possible</h4><div style='margin-bottom: 8px;'><strong style='color: var(--strongColor);'>Technological Advances:</strong><br>Web 2.0 became possible through advances in web technologies like AJAX, JavaScript, and broadband internet, which enabled dynamic, interactive web experiences.</div><div><strong style='color: var(--strongColor);'>User Participation:</strong><br>The shift from passive content consumption (Web 1.0) to active user participation — creating, sharing, and collaborating — also drove Web 2.0's emergence.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Technological advances (e.g., AJAX, broadband) and increased user participation/collaboration."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": ["Web 2.0", "Social Networking"],
+    "Question": {
+      "content": "State two benefits of social networking.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Benefits of Social Networking</h4><div style='margin-bottom: 8px;'><strong style='color: var(--strongColor);'>Benefit 1 – Quick Access to Information</strong><br>News, updates, and knowledge spread rapidly through social networks, keeping users informed in real time.</div><div><strong style='color: var(--strongColor);'>Benefit 2 – Connects People All Over the World</strong><br>Social networking removes geographical barriers, allowing people from different countries and cultures to communicate and collaborate instantly.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i. Quick access to information.<br>ii. Connects people all over the world."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": ["Web 2.0", "Google", "Instant Messaging"],
+    "Question": {
+      "content": "___________ is an instant messaging and video chat platform developed by Google.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Google's Messaging Platform</h4><p>The answer is <strong>Google Hangout</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is Google Hangout?</strong><br>Google Hangout (now largely replaced by Google Meet and Google Chat) was a communication tool by Google that supported instant messaging, voice calls, and video chat — making it a popular web 2.0 collaboration tool.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>It was integrated into Gmail and Google+, making it easily accessible to millions of users.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Google Hangout"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": ["Web 2.0", "Remote Collaboration"],
+    "Question": {
+      "content": "Remote collaboration could be done using ___________ and web 2.0 tools include among others ___________.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Remote Collaboration and Web 2.0 Tools</h4><div style='margin-bottom: 8px;'><strong style='color: var(--strongColor);'>Remote Collaboration Tool:</strong><br><strong>Wikis</strong> — shared web pages where multiple users can create and edit content together (e.g., Wikipedia).</div><div><strong style='color: var(--strongColor);'>Other Web 2.0 Tools:</strong><br><strong>Remote collaboration</strong> and <strong>Blogging</strong> — blogs allow individuals and teams to publish and share information globally without being in the same location.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Remote collaboration could be done using Wikis; web 2.0 tools include Remote collaboration and Blogging."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": ["ICT", "Networking", "VOIP"],
+    "Question": {
+      "content": "VOIP means ___________.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>What is VOIP?</h4><p>The answer is <strong>Voice Over Internet Protocol</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What does it do?</strong><br>VOIP allows you to make voice calls using an internet connection instead of a traditional phone line. Examples include WhatsApp calls, Skype, and Zoom audio.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'><strong>Acronym breakdown:</strong><br>V = Voice &nbsp; O = Over &nbsp; I = Internet &nbsp; P = Protocol</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Voice Over Internet Protocol"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": ["ICT", "Agriculture", "Microsoft Excel"],
+    "Question": {
+      "content": "Microsoft Excel can be used in agriculture for ___________.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Excel in Agriculture</h4><p>The answer is <strong>Entering farm inventory</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is farm inventory?</strong><br>Farm inventory refers to keeping records of all agricultural resources — seeds, fertilizers, equipment, livestock, harvests — that a farm has at any given time.</div><div><strong style='color: var(--strongColor);'>Why Excel?</strong><br>Excel's rows and columns make it ideal for organizing and tracking large amounts of farm data, calculating totals, and generating reports — all without needing complex software.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entering farm inventory"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": ["ICT", "Agriculture", "Microsoft Excel"],
+    "Question": {
+      "content": "A user will type the cell number at the ___________ to directly move to the cell specified in the cell reference.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Name Box in Excel</h4><p>The answer is the <strong>Name Box</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is the Name Box?</strong><br>The Name Box is the small field on the left side of the formula bar in Excel that displays the address of the currently selected cell (e.g., A1, B5, C12).</div><div><strong style='color: var(--strongColor);'>How to use it:</strong><br>Type a cell address (like <code>D10</code>) into the Name Box and press Enter — Excel jumps directly to that cell. This is a quick navigation shortcut, especially useful in large spreadsheets.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Name box"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": ["ICT", "Microsoft Excel", "Microsoft PowerPoint"],
+    "Question": {
+      "content": "Slides are to PowerPoint applications what ___________ are to Excel applications.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Slides vs Worksheets</h4><p>The answer is <strong>Worksheets</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>The Analogy:</strong><br>In PowerPoint, your content is organized into <em>slides</em>. In Excel, your content is organized into <em>worksheets</em> (also called sheets). Both serve as the individual pages/units that make up a larger file.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>Slide : PowerPoint = Worksheet : Excel</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Worksheets"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": ["ICT", "Microsoft Excel", "File Management"],
+    "Question": {
+      "content": "If you were asked to save and email an Excel attachment to your course lecturer bearing the last name of your HOD and your class number, the file will be saved as ___________.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Naming an Excel File</h4><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>The Convention:</strong><br>This question tests your understanding of file naming. The file should be named using the HOD's last name combined with your class number.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'><strong>Example format:</strong><br><code>[HOD's Last Name][Class Number].xlsx</code><br>e.g., <code>Smith101.xlsx</code></div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HOD's last name followed by the class number (e.g., Smith101.xlsx)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": ["ICT", "Microsoft Excel"],
+    "Question": {
+      "content": "Frequently used commands in the Excel application window are provided by ___________.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Quick Access Toolbar</h4><p>The answer is the <strong>Quick Access Toolbar</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is it?</strong><br>The Quick Access Toolbar (QAT) is a small, customizable toolbar at the very top of the Excel window. It provides one-click access to frequently used commands like Save, Undo, and Redo.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>You can add or remove commands from the QAT to match your workflow needs.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quick Access Toolbar"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": ["ICT", "Microsoft Excel", "Cell Referencing"],
+    "Question": {
+      "content": "One commonly used referencing style in Excel is ___________ referencing.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Excel Referencing Styles</h4><p>The answer is <strong>A1-style</strong> (the default style).</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is A1-style referencing?</strong><br>In A1-style, columns are labelled with letters (A, B, C…) and rows with numbers (1, 2, 3…). A cell is referenced by combining the column letter and row number — e.g., <strong>B3</strong> means column B, row 3.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>The other style is <strong>R1C1</strong>, where both rows and columns are numbered — e.g., R3C2 means row 3, column 2. A1-style is the default.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A1-style (default style)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": ["ICT", "Microsoft Excel", "Functions"],
+    "Question": {
+      "content": "One example of a statistical function used to perform calculations in Excel is =SUM(C1:C5). TRUE/FALSE?",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Is SUM a Statistical Function?</h4><p>The answer is <strong>False</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>Why False?</strong><br><code>=SUM()</code> is a <em>Math &amp; Trig</em> function in Excel, not a statistical one. It simply adds up values in a range.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'><strong>Examples of actual statistical functions:</strong><br><code>=AVERAGE()</code>, <code>=COUNT()</code>, <code>=MAX()</code>, <code>=MIN()</code>, <code>=STDEV()</code></div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": ["ICT", "Microsoft Excel"],
+    "Question": {
+      "content": "You can modify an Excel workbook by clicking the ___________ option in the backstage view.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Backstage View in Excel</h4><p>The answer is the <strong>Info</strong> option (in the Backstage view).</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is Backstage View?</strong><br>Backstage view is accessed by clicking the <strong>File</strong> tab in Excel. It provides options to save, open, print, and modify workbook properties.</div><div><strong style='color: var(--strongColor);'>The Info Panel:</strong><br>Under Backstage → Info, you can modify workbook properties like title, author, permissions, and version history.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Info"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": ["ICT", "Microsoft Excel"],
+    "Question": {
+      "content": "An Excel application contains ___________ workbook(s) by default.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Default Workbooks in Excel</h4><p>The answer is <strong>Three</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>Explanation:</strong><br>Older versions of Excel (2010 and earlier) opened with <strong>3 worksheets</strong> (Sheet1, Sheet2, Sheet3) by default inside one workbook. Newer versions default to 1, but this question refers to the traditional setting.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>You can always add more sheets by clicking the <strong>+</strong> button at the bottom of the Excel window.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Three"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": ["ICT", "Microsoft Excel"],
+    "Question": {
+      "content": "The spreadsheet is designed in an alphanumeric style where ___________ are referred to by alphabets.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Alphanumeric Design of Spreadsheets</h4><p>The answer is <strong>Columns</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>How it works:</strong><br>In a spreadsheet, <em>columns</em> run vertically and are labelled with letters (A, B, C… Z, AA, AB…), while <em>rows</em> run horizontally and are labelled with numbers (1, 2, 3…).</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>This is why a cell like <strong>B5</strong> means: Column B (alphabet) → Row 5 (number).</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Columns"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": ["ICT", "Microsoft Excel", "Ribbon"],
+    "Question": {
+      "content": "Charts, Tables, Symbols and Illustrations can be found on the ___________ tab area of the ribbon.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Excel Ribbon – Insert Tab</h4><p>The answer is the <strong>Insert</strong> tab.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is on the Insert tab?</strong><br>The Insert tab in Excel's ribbon contains groups for adding elements to your worksheet, including:</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'><strong>Charts</strong> – Bar, Pie, Line, etc.<br><strong>Tables</strong> – Structured data tables<br><strong>Illustrations</strong> – Images, Shapes, SmartArt<br><strong>Symbols</strong> – Special characters and equations</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Insert"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": ["ICT", "Microsoft Excel"],
+    "Question": {
+      "content": "The ___________ feature allows a user to rearrange data in a worksheet in ascending or descending order.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Sorting Data in Excel</h4><p>The answer is the <strong>Sort and Filter</strong> option.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What does it do?</strong><br>The Sort and Filter feature lets you organize your data alphabetically, numerically, or by date — in either ascending (A→Z, 1→9) or descending (Z→A, 9→1) order.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>Found in: <strong>Home tab → Editing group → Sort &amp; Filter</strong>, or in the <strong>Data tab</strong>.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sort and Filter option"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": ["ICT", "Microsoft Excel"],
+    "Question": {
+      "content": "It is TRUE/FALSE that you can rename and change the order of the default tabs and groups but cannot rename the default commands.",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Customizing the Excel Ribbon</h4><p>The answer is <strong>True</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What you CAN do:</strong><br>In Excel's ribbon customization settings, you can rename tabs and groups, and reorder them however you like.</div><div><strong style='color: var(--strongColor);'>What you CANNOT do:</strong><br>You <em>cannot</em> rename the built-in (default) commands themselves — e.g., you can't rename the \"Bold\" command to something else. You can only rename the tabs and groups that contain them.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": ["ICT", "Microsoft Excel", "File Formats"],
+    "Question": {
+      "content": "The ___________ format is used when saving a worksheet to make it a printable document on the web.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Saving as PDF in Excel</h4><p>The answer is <strong>PDF</strong> (Portable Document Format).</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>Why PDF?</strong><br>PDF preserves the formatting, layout, and fonts of your worksheet exactly as designed — making it ideal for sharing and printing without needing Excel installed on the recipient's device.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>To save as PDF in Excel: <strong>File → Save As → PDF</strong> or <strong>File → Export → Create PDF/XPS</strong>.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "PDF"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": ["ICT", "Microsoft Excel"],
+    "Question": {
+      "content": "___________ is a detachable bar that contains shortcuts to menu and other commands.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>The Toolbar in Excel</h4><p>The answer is the <strong>Toolbar</strong>.</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What is a Toolbar?</strong><br>A toolbar is a strip of buttons or icons that give quick access to frequently used commands. In older versions of Excel (pre-2007), toolbars were detachable — meaning you could drag them off their fixed position and float them anywhere on screen.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>In modern Excel, the ribbon replaced the old toolbars, but the <strong>Quick Access Toolbar</strong> still serves a similar function.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tool bar"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": ["ICT", "Microsoft Excel", "Drawing Tools"],
+    "Question": {
+      "content": "___________ are horizontal and vertical borders that are used to determine the size and position of objects in a drawing.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 12px;'>Rulers / Guidelines in Drawing</h4><p>The answer is <strong>Rulers</strong> (or Guidelines).</p><div style='margin-bottom: 10px;'><strong style='color: var(--strongColor);'>What are they?</strong><br>Rulers are horizontal and vertical measurement guides displayed along the edges of the drawing area. They help you precisely position and size objects — shapes, images, text boxes — in a worksheet or drawing.</div><div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 6px;'>In Excel, you can toggle rulers via: <strong>View tab → Show group → Ruler</strong> (available in Page Layout view).</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rulers"
+    }
+  },
+
+
+
+  {
+    "type": "heading",
+    "heading": "CorelDRAW Fundamentals",
+    "Subheading": "Interface and Basic Tools"
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Computer Science",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "What is the area outside the drawing page bordered by the scroll bars and application controls known as?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Drawing Window Interface</h4><p>The area outside the drawing page is called the <strong>Drawing Window</strong>. It's the workspace that surrounds the printable page area, allowing you to store objects temporarily.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Drawing window"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Computer Science",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "What is the rectangular area inside the drawing window called?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Work Area</h4><p>The rectangular area inside the drawing window is known as the <strong>Workbook</strong>. This is the actual printable area where you create your designs.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Workbook"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Computer Science",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "A Color Palette is a dockable bar that contains color swatches.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Color Palette</h4><p>This statement is <strong>True</strong>. The color palette in CorelDRAW is indeed a dockable bar that provides quick access to color swatches for filling objects and outlines.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Computer Science",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "A Docker is a window containing available commands and settings relevant to a specific tool or task.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Dockers</h4><p>This statement is <strong>True</strong>. Dockers are special windows that can be docked to the side of the workspace, providing commands and settings for specific tools or tasks.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Computer Science",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "What is the detachable bar with commands that relate to the active tool or object called?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Contextual Controls</h4><p>This is called the <strong>Property Bar</strong>. It changes dynamically based on what tool is active or what object is selected, giving you quick access to relevant settings.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Property bar"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Computer Science",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "Which tool is used for selecting and deselecting objects?",
+      "type": "OBJ",
+      "options": [
+        "Bezier tool",
+        "Freehand tool",
+        "Shape tool",
+        "Pick tool"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Selection Tools</h4><p>The correct answer is <strong>D (Pick tool)</strong>. The Pick tool is the primary selection tool in CorelDRAW used for selecting, moving, and transforming objects.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pick tool"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Computer Science",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "What is the area displaying the title of the currently open drawing called?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Application Header</h4><p>This area is the <strong>Title bar</strong>. It is located at the top of the application window and displays the name of the current drawing file.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Title bar"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Computer Science",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "Which tool is used for cropping?",
+      "type": "OBJ",
+      "options": [
+        "Shape tool",
+        "Pick tool",
+        "Knife tool",
+        "Zoom tool"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cropping Tools</h4><p>The correct answer is <strong>A (Shape tool)</strong>. While CorelDRAW has a dedicated Crop tool, among the options provided, the Shape tool can be used for cropping by manipulating node points. Note: The provided answer key indicates \"A\" for this question.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shape tool"
+    }
+  }
+]
+
