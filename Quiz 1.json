@@ -1,0 +1,438 @@
+[
+    {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "inttoduction to computer In agriculture",
+    "code": "AGR 204.1",
+    "session": "Quuiz 1",
+    "topics":["Web 2.0", "Social Media", "ICT", "Geo-location", "Blogging", "Social Networking", "Online Safety", "Google", "Instant Messaging", "Remote Collaboration", "Networking", "VOIP", "Agriculture", "Microsoft Excel", "Microsoft PowerPoint", "File Management", "Cell Referencing", "Functions", "Ribbon", "File Formats", "Drawing Tools", "Computer Science", "Graphic Design", "CorelDRAW"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "ICT",
+      "Agriculture",
+      "Web 2.0"
+    ],
+    "Question": {
+      "content": "Explain how Web 2.0 technologies have transformed agricultural extension services and information dissemination to farmers in rural areas.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Web 2.0 in Agriculture</h4><p>Web 2.0 enables two-way communication, allowing farmers to interact with experts, share experiences, and access real-time information through blogs, forums, and social media platforms, unlike traditional one-way extension services.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Web 2.0 transformed agricultural extension by enabling participatory communication, real-time information sharing, interactive learning platforms, and direct farmer-to-expert engagement through blogs, social media, and collaborative tools."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Social Media",
+      "Agriculture",
+      "Social Networking"
+    ],
+    "Question": {
+      "content": "Discuss the role of social media platforms in modern agriculture, providing at least three specific applications for farmers and agribusinesses.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social Media Applications</h4><p>Social media platforms like Facebook, WhatsApp, and YouTube enable market linkages, peer learning groups, agricultural awareness campaigns, direct marketing, and real-time problem-solving among farming communities.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social media enables: (1) Market access through direct buyer-seller connections, (2) Knowledge sharing via farmer groups and expert-led forums, (3) Brand building and direct marketing of agricultural products, and (4) Real-time weather and pest alert dissemination."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Geo-location",
+      "Agriculture",
+      "ICT"
+    ],
+    "Question": {
+      "content": "What is geo-location technology and how can it be applied in precision agriculture for crop monitoring and management?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Geo-location in Agriculture</h4><p>Geo-location uses GPS and satellite data to pinpoint field locations, enabling variable rate application of inputs, yield mapping, soil sampling, and remote monitoring of crop health.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Geo-location technology uses GPS coordinates to map fields precisely, enabling variable rate fertilization, targeted irrigation, pest scouting, yield monitoring, and automated tractor guidance for efficient farm management."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Blogging",
+      "Agriculture",
+      "Web 2.0"
+    ],
+    "Question": {
+      "content": "Describe how agricultural blogging can serve as a tool for knowledge sharing and market linkage between farmers and agricultural stakeholders.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Agricultural Blogging</h4><p>Blogs provide a platform for sharing success stories, farming techniques, market prices, and policy updates, creating a documented knowledge base accessible to farmers, researchers, and agribusinesses.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Agricultural blogging enables farmers to share best practices, document crop cycles, connect with buyers directly, access expert advice, and build a digital presence that attracts markets and funding opportunities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Online Safety",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Identify and explain five key online safety practices that agricultural professionals should adopt when using digital platforms for farm business operations.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Online Safety</h4><p>Cybersecurity is critical as agriculture adopts digital tools. Protecting data prevents financial loss and maintains trust in digital agricultural systems.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Key practices: (1) Use strong unique passwords, (2) Enable two-factor authentication, (3) Avoid public Wi-Fi for financial transactions, (4) Regularly backup farm data, (5) Verify sources before clicking links to avoid phishing scams."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Google",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "How can Google tools such as Google Earth, Google Forms, and Google Drive be utilized for agricultural research and farm management?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Google Tools</h4><p>Google's ecosystem offers free tools for mapping, data collection, and collaboration, making it accessible for farmers and researchers with limited budgets.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Google Earth provides field visualization and historical imagery; Google Forms enables farmer surveys and data collection; Google Drive allows document sharing and collaborative record keeping for farm operations and research."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Instant Messaging",
+      "Social Networking",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Evaluate the effectiveness of instant messaging platforms like WhatsApp in facilitating farmer-to-farmer extension and agricultural advisory services.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Instant Messaging Impact</h4><p>WhatsApp groups have become virtual farmer field schools, enabling quick dissemination of advice, multimedia learning, and peer support across geographic barriers.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Instant messaging platforms are highly effective due to low data requirements, multimedia support, real-time interaction, group learning dynamics, and the ability to quickly share pest alerts, market prices, and farming tips."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Remote Collaboration",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Explain the concept of remote collaboration and describe how it supports agricultural research teams working across different geographical locations.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Remote Collaboration</h4><p>Tools like Zoom, Microsoft Teams, and cloud platforms enable researchers to share data, conduct meetings, and jointly analyze results without physical presence.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Remote collaboration uses digital tools to enable real-time data sharing, virtual meetings, joint document editing, and coordinated research activities across institutions, reducing travel costs and accelerating research outcomes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "VOIP",
+      "Networking",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What is VoIP technology and how can it reduce communication costs for agricultural cooperatives and rural farming communities?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>VoIP Technology</h4><p>Voice over Internet Protocol converts voice into digital signals transmitted over the internet, bypassing traditional phone networks and associated costs.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "VoIP (Voice over Internet Protocol) enables voice calls over internet connections, significantly reducing long-distance communication costs, enabling farmer cooperatives to coordinate with buyers, extension officers, and input suppliers affordably."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Microsoft Excel",
+      "Functions",
+      "Cell Referencing",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "A farmer records monthly expenses for five inputs: Seeds ($200), Fertilizer ($350), Pesticides ($150), Labor ($400), and Irrigation ($100). Using cell referencing, write the Excel formula to calculate the total expenses. If the farmer wants to calculate the percentage of each expense relative to the total, what formula would be used in cell B2 (Seeds) assuming total is in cell F10?",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Excel Formulas</h4><p>Use absolute referencing (<code>$</code>) for the total cell to maintain the reference when copying the formula down for all expense items.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Total formula: <code>=SUM(A2:A6)</code> or <code>=200+350+150+400+100</code><br>Percentage formula for Seeds: <code>=B2/$F$10*100</code>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Microsoft Excel",
+      "Functions",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "List and explain four Microsoft Excel functions that are particularly useful for analyzing agricultural data, such as crop yield records or livestock production figures.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Excel Functions</h4><p>Statistical and lookup functions help farmers analyze trends, compare performance, and make data-driven decisions.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<code>AVERAGE()</code> for mean yield calculation; <code>SUMIF()</code> for conditional totals; <code>MAX()/MIN()</code> for identifying best/worst performance; <code>FORECAST()</code> for predicting future yields based on historical data."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Microsoft PowerPoint",
+      "Agriculture",
+      "ICT"
+    ],
+    "Question": {
+      "content": "Describe best practices for creating an effective PowerPoint presentation to present agricultural research findings to farmers who may have varying literacy levels.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Effective Presentations</h4><p>Visual communication is key when presenting to diverse audiences. Simplify complex data into understandable formats.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Use high-quality images, minimal text, local language translations, simple charts, step-by-step visuals, interactive demonstrations, and avoid jargon. Include practical demonstrations and allow time for questions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "File Management",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Explain the importance of proper file management for agricultural extension officers who handle multiple farmer records, training materials, and field reports. Describe an effective folder structure.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>File Management</h4><p>Organized file systems save time, prevent data loss, and enable efficient retrieval of critical agricultural information.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proper file management ensures quick document retrieval, prevents data loss, and maintains data integrity. Structure: Main folder 'Extension_2026', subfolders 'Farmer_Records', 'Training_Materials', 'Field_Reports', 'Financial', each with year/month subfolders and consistent naming conventions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "File Formats",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Identify the appropriate file formats for: (a) a printable farm brochure, (b) a spreadsheet for yield data analysis, (c) a presentation for farmers, and (d) a high-resolution soil map. Justify each choice.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>File Formats</h4><p>Choosing the right format ensures compatibility, quality preservation, and appropriate functionality for different use cases.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a) PDF - preserves formatting across devices; (b) .xlsx - supports formulas and analysis; (c) .pptx - editable presentation format; (d) .tiff or .jpg - high-resolution image formats suitable for printing and sharing."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Ribbon",
+      "Microsoft Excel",
+      "Microsoft PowerPoint"
+    ],
+    "Question": {
+      "content": "What is the Ribbon interface in Microsoft Office applications? Describe its key components and explain how it improves user efficiency for agricultural professionals.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ribbon Interface</h4><p>The Ribbon organizes commands into tabs and groups, making tools discoverable without memorizing complex menus.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Ribbon is a tab-based toolbar with groups of related commands (Home, Insert, Page Layout). Components include Tabs, Groups, and Commands. It improves efficiency by visually organizing tools, reducing search time, and providing context-sensitive tabs when working with specific objects."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Drawing Tools",
+      "Graphic Design",
+      "CorelDRAW",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Explain how drawing tools and graphic design software like CorelDRAW can be used to create agricultural extension materials such as posters, infographics, and field maps.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Graphic Design Tools</h4><p>Vector-based software enables scalable, professional-quality visuals that communicate agricultural concepts effectively across different media.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CorelDRAW enables creation of scalable vector graphics for posters, precise field maps with layers, instructional infographics with text and icons, and visually appealing extension materials that can be printed or shared digitally with consistent professional quality."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Social Networking",
+      "Agriculture",
+      "ICT"
+    ],
+    "Question": {
+      "content": "Compare the benefits and challenges of using LinkedIn versus Facebook for agricultural networking and professional development.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Professional Networking</h4><p>Different platforms serve different purposes. Choosing the right platform depends on audience and objectives.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "LinkedIn benefits: professional credibility, job opportunities, formal networking. Challenges: limited rural penetration. Facebook benefits: wider rural reach, community groups, informal learning. Challenges: privacy concerns, less professional focus."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Networking",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What is computer networking? Describe how networking infrastructure in rural areas can support agricultural development initiatives.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rural Networking</h4><p>Network infrastructure bridges the digital divide, enabling access to information, markets, and services essential for agricultural development.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Computer networking connects devices to share resources and information. Rural networking enables e-extension services, market information systems, telemedicine for livestock, online training, and digital financial services that transform agricultural productivity and livelihoods."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Microsoft Excel",
+      "Cell Referencing",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Distinguish between relative, absolute, and mixed cell referencing in Microsoft Excel. Provide an example of when each type would be used in an agricultural spreadsheet for budgeting.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cell Referencing</h4><p>Understanding referencing types is crucial for building accurate, reusable spreadsheets for farm management.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Relative (<code>A1</code>) changes when copied - used for calculating multiple crop yields. Absolute (<code>$A$1</code>) stays fixed - used for a constant tax rate. Mixed (<code>$A1</code> or <code>A$1</code>) fixes one reference - used when multiplying varying quantities by a fixed price per unit."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "ICT",
+      "Agriculture",
+      "Web 2.0"
+    ],
+    "Question": {
+      "content": "Propose a comprehensive ICT-based solution for smallholder farmers that integrates at least four different technologies covered in this course. Explain how each component contributes to improving agricultural productivity and market access.",
+      "type": "subjective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Integrated ICT Solution</h4><p>Combining multiple technologies creates a powerful ecosystem that addresses various challenges faced by smallholder farmers.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Solution: Mobile app integrating (1) Geo-location for field mapping, (2) Instant messaging for expert advisory, (3) Excel-based record keeping for input tracking, (4) Social media marketplace for direct sales. This enables precision farming, real-time support, financial planning, and improved market linkages."
+    }
+  }
+]

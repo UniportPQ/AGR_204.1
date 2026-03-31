@@ -1,0 +1,557 @@
+[
+    {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "inttoduction to computer In agriculture",
+    "code": "AGR 204.1",
+    "session": "Quiz 2",
+    "topics":["Web 2.0", "Social Media", "ICT", "Geo-location", "Blogging", "Social Networking", "Online Safety", "Google", "Instant Messaging", "Remote Collaboration", "Networking", "VOIP", "Agriculture", "Microsoft Excel", "Microsoft PowerPoint", "File Management", "Cell Referencing", "Functions", "Ribbon", "File Formats", "Drawing Tools", "Computer Science", "Graphic Design", "CorelDRAW"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+
+
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "ICT",
+      "Agriculture",
+      "Web 2.0"
+    ],
+    "Question": {
+      "content": "Which of the following best describes the primary characteristic of Web 2.0 that distinguishes it from earlier web technologies?",
+      "type": "OBJ",
+      "options": [
+        "Static HTML pages with limited interactivity",
+        "User-generated content and two-way interaction",
+        "Dial-up internet connectivity only",
+        "Exclusive use of text-based information"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Web 2.0 Explained</h4><p>Web 2.0 introduced platforms where users don't just read content but actively create, share, and interact with it. Think of Facebook, YouTube, and blogs where farmers can post questions and share experiences.</p><div style='margin-top: 12px;'><strong style='color: var(--strongColor);'>Why this matters in Agriculture:</strong> Farmers can now share real-time pest outbreaks, market prices, and farming techniques with peers across regions.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "User-generated content and two-way interaction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Geo-location",
+      "Agriculture",
+      "ICT"
+    ],
+    "Question": {
+      "content": "Precision agriculture relies heavily on geo-location technology. Which of the following is the most common technology used for obtaining precise field location data?",
+      "type": "OBJ",
+      "options": [
+        "Bluetooth",
+        "Wi-Fi triangulation",
+        "Global Positioning System (GPS)",
+        "Radio Frequency Identification (RFID)"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Geo-location in Farming</h4><p>GPS satellites provide accurate location data that farmers use to map field boundaries, track equipment, and apply inputs like fertilizer precisely where needed.</p><div style='margin-top: 12px;'><strong style='color: var(--strongColor);'>Real-world use:</strong> A farmer can use GPS-guided tractors to plant rows with centimeter accuracy, reducing seed waste by up to 15%.</p></div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Global Positioning System (GPS)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "VOIP",
+      "Networking",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "A farmer in a remote village wants to make free voice calls to an agricultural extension officer in another city using an internet connection. Which technology makes this possible?",
+      "type": "OBJ",
+      "options": [
+        "VoIP (Voice over Internet Protocol)",
+        "SMS (Short Message Service)",
+        "Fax machine",
+        "Traditional landline telephone"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>VoIP Technology</h4><p>VoIP converts voice into digital data sent over the internet. Apps like WhatsApp, Skype, and Zoom use this technology, allowing farmers to connect with experts without expensive phone bills.</p><div style='margin-top: 12px;'><strong style='color: var(--strongColor);'>Example:</strong> A farmer in rural Kenya can video call an agronomist in Nairobi to diagnose crop disease in real-time.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "VoIP (Voice over Internet Protocol)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Microsoft Excel",
+      "Cell Referencing",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "In Microsoft Excel, if you have the formula =A1*$B$1 and you copy it from cell C1 to C2, what will the formula become in C2?",
+      "type": "OBJ",
+      "options": [
+        "=A2*$B$1",
+        "=A1*$B$2",
+        "=A2*$B$2",
+        "=A1*$B$1"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cell Referencing in Excel</h4><p>Relative references (A1) change when copied. Absolute references ($B$1) stay fixed. So when copying down, A1 becomes A2 (relative change), but $B$1 remains $B$1.</p><div style='margin-top: 12px;'><strong style='color: var(--strongColor);'>Farm example:</strong> Use $B$1 for a fixed fertilizer price while copying quantity formulas down a column for different crops.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "=A2*$B$1"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Online Safety",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "A farmer receives an email claiming to be from a bank asking for their password to verify their account. This is an example of which type of online threat?",
+      "type": "OBJ",
+      "options": [
+        "Phishing",
+        "Virus infection",
+        "Hardware failure",
+        "Spam email"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Phishing Explained</h4><p>Phishing is when scammers pretend to be legitimate organizations to steal personal information. Legitimate organizations never ask for passwords via email.</p><div style='margin-top: 12px;'><strong style='color: var(--strongColor);'>Safety tip:</strong> Always verify suspicious messages by calling the organization directly using a known phone number.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phishing"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Microsoft PowerPoint",
+      "Agriculture",
+      "ICT"
+    ],
+    "Question": {
+      "content": "Which feature in Microsoft PowerPoint would be most effective for showing farmers the step-by-step process of planting a new crop variety?",
+      "type": "OBJ",
+      "options": [
+        "Slide transitions",
+        "Speaker notes only",
+        "Slide animations and visual sequence",
+        "Printing all slides on paper"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Effective Presentations</h4><p>Slide animations allow you to reveal information step-by-step, preventing information overload and making it easier for farmers to follow along, especially those with varying literacy levels.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Slide animations and visual sequence"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Social Media",
+      "Social Networking",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Which social media platform is most commonly used for creating professional agricultural networks and showcasing agricultural business profiles?",
+      "type": "OBJ",
+      "options": [
+        "TikTok",
+        "Snapchat",
+        "LinkedIn",
+        "Pinterest"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Professional Social Networks</h4><p>LinkedIn is designed for professional networking, allowing agribusinesses, researchers, and agricultural professionals to connect, share achievements, and discover job opportunities.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "LinkedIn"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "File Formats",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "When creating a farm poster in CorelDRAW that needs to be printed professionally, which file format should you export to in order to preserve quality and ensure the printer can open it?",
+      "type": "OBJ",
+      "options": [
+        ".jpg",
+        ".gif",
+        ".pdf",
+        ".bmp"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>File Formats for Print</h4><p>PDF (Portable Document Format) preserves all design elements, fonts, and resolution settings, ensuring the poster prints exactly as designed. JPG uses compression that can blur text and sharp lines.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": ".pdf"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Google",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Which Google tool would be most useful for creating a survey to collect data from 200 farmers about their preferred farming practices?",
+      "type": "OBJ",
+      "options": [
+        "Google Docs",
+        "Google Forms",
+        "Google Calendar",
+        "Google Maps"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Data Collection Tools</h4><p>Google Forms allows you to create custom surveys, collect responses automatically in a spreadsheet, and analyze data without any programming knowledge. Perfect for agricultural research.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Google Forms"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "File Management",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What is the recommended practice for naming agricultural field report files to ensure they are easily searchable and organized?",
+      "type": "OBJ",
+      "options": [
+        "Using random numbers like 001, 002",
+        "Using descriptive names with date format (YYYY-MM-DD_Location_Crop)",
+        "Using only the date without any description",
+        "Leaving the default filename from the software"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>File Naming Best Practices</h4><p>Descriptive names with YYYY-MM-DD format ensure files sort chronologically and can be found quickly. Example: 2026-03-30_Kisumu_Maize_Report.pdf is much better than Document1.pdf.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using descriptive names with date format (YYYY-MM-DD_Location_Crop)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Microsoft Excel",
+      "Functions",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "A farmer recorded maize yields for 5 years: 2.5, 3.0, 2.8, 3.2, and 2.9 tons per hectare. Which Excel function would calculate the average yield?",
+      "type": "OBJ",
+      "options": [
+        "=SUM()",
+        "=COUNT()",
+        "=AVERAGE()",
+        "=MAX()"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Excel AVERAGE Function</h4><p>The AVERAGE function adds all numbers in a range and divides by the count, giving the mean value. <code>=AVERAGE(2.5,3.0,2.8,3.2,2.9)</code> returns 2.88 tons/hectare.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "=AVERAGE()"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Instant Messaging",
+      "Agriculture",
+      "Social Networking"
+    ],
+    "Question": {
+      "content": "Which feature of instant messaging platforms like WhatsApp makes them particularly useful for creating farmer learning communities?",
+      "type": "OBJ",
+      "options": [
+        "The ability to create groups with multiple participants",
+        "High monthly subscription fees",
+        "Limited to text-only messages",
+        "Requires high-speed fiber internet only"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Group Learning</h4><p>WhatsApp groups allow up to 1024 participants to share text, images, videos, and voice messages. Farmers can post pest photos, get instant advice, and learn from peers in a supportive environment.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The ability to create groups with multiple participants"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Remote Collaboration",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Agricultural researchers from three different universities need to work together on the same research document simultaneously. Which technology enables this real-time collaboration?",
+      "type": "OBJ",
+      "options": [
+        "Email attachment sharing",
+        "Cloud-based collaboration tools like Google Docs",
+        "Printing and mailing documents",
+        "USB flash drive transfers"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cloud Collaboration</h4><p>Tools like Google Docs and Microsoft 365 allow multiple people to edit the same document at the same time, see each other's changes instantly, and chat within the document.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cloud-based collaboration tools like Google Docs"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Ribbon",
+      "Microsoft Excel",
+      "Microsoft PowerPoint"
+    ],
+    "Question": {
+      "content": "In Microsoft Office applications, what is the purpose of the \"Ribbon\" interface?",
+      "type": "OBJ",
+      "options": [
+        "To display the document title only",
+        "To organize commands into tabs and groups for easy access",
+        "To show the spelling and grammar status",
+        "To display page numbers"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Ribbon Interface</h4><p>The Ribbon replaced traditional menus in Office 2007. It organizes related commands under tabs like Home, Insert, and Page Layout, making tools easier to find without searching through multiple menus.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To organize commands into tabs and groups for easy access"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Drawing Tools",
+      "Graphic Design",
+      "CorelDRAW"
+    ],
+    "Question": {
+      "content": "Which tool in CorelDRAW would you use to create a precise diagram showing the layout of irrigation pipes in a farm field?",
+      "type": "OBJ",
+      "options": [
+        "Bezier tool for precision lines and curves",
+        "Text tool only",
+        "Eraser tool",
+        "Zoom tool"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Precision Drawing Tools</h4><p>The Bezier tool allows you to create precise lines and curves by placing nodes and adjusting handles, perfect for creating accurate farm layout diagrams, irrigation plans, and field maps.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bezier tool for precision lines and curves"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Blogging",
+      "Agriculture",
+      "Web 2.0"
+    ],
+    "Question": {
+      "content": "How can agricultural blogging benefit a small-scale farmer beyond just sharing information?",
+      "type": "OBJ",
+      "options": [
+        "It can help build a personal brand and attract direct customers",
+        "It requires expensive equipment",
+        "It replaces the need for physical farming",
+        "It only works in urban areas"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Blogging for Market Access</h4><p>Blogging allows farmers to showcase their sustainable practices, share their story, and connect directly with consumers and buyers who value transparency and quality produce.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It can help build a personal brand and attract direct customers"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Networking",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What is a Local Area Network (LAN) in the context of an agricultural research station?",
+      "type": "OBJ",
+      "options": [
+        "A network connecting computers within the same building or campus",
+        "A network connecting farms across different countries",
+        "A satellite connection to space",
+        "A type of smartphone application"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Local Area Networks</h4><p>LAN connects computers in a limited area like a research station, allowing scientists to share data, printers, and internet access without needing external connections for internal communication.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A network connecting computers within the same building or campus"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Microsoft Excel",
+      "Functions",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Which Excel function would a farmer use to find the highest milk yield recorded among their 20 dairy cows?",
+      "type": "OBJ",
+      "options": [
+        "=MIN()",
+        "=AVERAGE()",
+        "=MAX()",
+        "=SUM()"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>MAX Function</h4><p>The MAX function returns the largest number in a range. A farmer can use <code>=MAX(B2:B21)</code> to quickly identify their best-producing cow for breeding selection.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "=MAX()"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Online Safety",
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What is the strongest type of password for securing an agricultural business account?",
+      "type": "OBJ",
+      "options": [
+        "The farm's name and year (e.g., GreenFarm2026)",
+        "A short password like \"12345\"",
+        "A combination of uppercase, lowercase, numbers, and symbols (e.g., F@rmM@n@g3r!26)",
+        "The farmer's date of birth"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Strong Passwords</h4><p>Strong passwords mix character types and avoid personal information. Use at least 12 characters with uppercase, lowercase, numbers, and special symbols. Consider using a passphrase like Coffee-Plant$2026@Farm.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A combination of uppercase, lowercase, numbers, and symbols (e.g., F@rmM@n@g3r!26)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "ICT",
+      "Agriculture",
+      "Geo-location"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of using ICT to support climate-smart agriculture?",
+      "type": "OBJ",
+      "options": [
+        "Using only traditional farming calendars",
+        "Ignoring weather forecasts",
+        "Using mobile apps that combine geo-location with real-time weather data for planting decisions",
+        "Avoiding any technology on the farm"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Climate-Smart Agriculture</h4><p>ICT tools like apps that combine GPS location with hyperlocal weather data help farmers make informed decisions about planting dates, irrigation, and input application, reducing climate-related risks.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using mobile apps that combine geo-location with real-time weather data for planting decisions"
+    }
+  }
+]
