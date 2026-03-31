@@ -1,0 +1,409 @@
+
+[
+
+    {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "inttoduction to computer In agriculture",
+    "code": "AGR 204.1",
+    "session": "Easy",
+    "topics":["Web 2.0", "Social Media", "ICT", "Geo-location", "Blogging", "Social Networking", "Online Safety", "Google", "Instant Messaging", "Remote Collaboration", "Networking", "VOIP", "Agriculture", "Microsoft Excel", "Microsoft PowerPoint", "File Management", "Cell Referencing", "Functions", "Ribbon", "File Formats", "Drawing Tools", "Computer Science", "Graphic Design", "CorelDRAW"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+
+
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "ICT",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What does ICT stand for?",
+      "type": "OBJ",
+      "options": [
+        "Internet and Computer Technology",
+        "Information and Communication Technology",
+        "International Computer Training",
+        "Integrated Circuit Technology"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>ICT Meaning</h4><p>ICT stands for <strong>Information and Communication Technology</strong>. It includes all technologies used to handle information and communicate, like computers, internet, mobile phones, and radios.</p><div style='margin-top: 12px;'><strong style='color: var(--strongColor);'>In Agriculture:</strong> Farmers use ICT to check market prices, get weather updates, and connect with experts.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Information and Communication Technology"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Social Media",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of a social media platform?",
+      "type": "OBJ",
+      "options": [
+        "Microsoft Excel",
+        "WhatsApp",
+        "Adobe Photoshop",
+        "CorelDRAW"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social Media Examples</h4><p>WhatsApp, Facebook, Instagram, and TikTok are social media platforms. They let people share messages, photos, and videos and communicate with others.</p><div style='margin-top: 12px;'><strong style='color: var(--strongColor);'>Farmers use WhatsApp groups</strong> to share farming tips and market information.</div></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "WhatsApp"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Google",
+      "ICT"
+    ],
+    "Question": {
+      "content": "What is Google primarily known for?",
+      "type": "OBJ",
+      "options": [
+        "Making farming equipment",
+        "A search engine on the internet",
+        "A type of crop",
+        "A social media app"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Google Search</h4><p>Google is a <strong>search engine</strong> that helps you find information on the internet. Farmers can search for things like \"how to control maize pests\" or \"today's tomato price.\"</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A search engine on the internet"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Microsoft Excel",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Which Microsoft application is best for keeping records of farm expenses and income?",
+      "type": "OBJ",
+      "options": [
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Microsoft Outlook"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Excel for Farm Records</h4><p>Microsoft Excel is a <strong>spreadsheet program</strong> that helps organize numbers and do calculations. Farmers use it to track costs, yields, and profits in neat tables.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Microsoft Excel"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Microsoft PowerPoint",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "A farmer wants to give a presentation to a cooperative about new farming techniques. Which software should they use?",
+      "type": "OBJ",
+      "options": [
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "CorelDRAW"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>PowerPoint for Presentations</h4><p>Microsoft PowerPoint is used to create <strong>slide shows</strong> with pictures and text. It's perfect for teaching groups of farmers about new methods, showing step-by-step with visuals.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Microsoft PowerPoint"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "File Management",
+      "ICT"
+    ],
+    "Question": {
+      "content": "What is the best way to organize farm documents on a computer so you can find them easily later?",
+      "type": "OBJ",
+      "options": [
+        "Save everything on the desktop",
+        "Create folders with clear names like \"Farm_Records_2026\"",
+        "Use only one folder for everything",
+        "Never name your files"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Organizing Files</h4><p>Creating <strong>folders with clear names</strong> helps you find documents quickly. Example: A folder called \"2026_Maize_Records\" with subfolders for expenses, yields, and inputs.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Create folders with clear names like \"Farm_Records_2026\""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Online Safety",
+      "ICT"
+    ],
+    "Question": {
+      "content": "What should you do if you receive an email asking for your password?",
+      "type": "OBJ",
+      "options": [
+        "Reply with your password immediately",
+        "Ignore it and never share your password",
+        "Forward it to your friends",
+        "Call the sender to confirm first"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Protecting Your Password</h4><p><strong>Never share your password with anyone</strong>. Real companies will never ask for your password by email. Such emails are scams trying to steal your information.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ignore it and never share your password"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Geo-location",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What does GPS help farmers do?",
+      "type": "OBJ",
+      "options": [
+        "Cook food",
+        "Find exact locations on their farm",
+        "Send text messages",
+        "Edit photos"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>GPS in Farming</h4><p>GPS (Global Positioning System) helps farmers <strong>find exact locations</strong> on their land. They can map field boundaries, mark problem areas, and guide tractors precisely.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Find exact locations on their farm"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Instant Messaging",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "A farmer wants to quickly ask an extension officer about a crop disease using their phone. Which tool is best for this?",
+      "type": "OBJ",
+      "options": [
+        "Letter writing",
+        "Instant messaging like WhatsApp",
+        "Fax machine",
+        "Radio broadcast"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Instant Messaging</h4><p>Apps like WhatsApp let farmers <strong>send photos and messages instantly</strong>. A farmer can take a picture of a sick plant, send it to an expert, and get advice within minutes.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Instant messaging like WhatsApp"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "VOIP",
+      "Networking"
+    ],
+    "Question": {
+      "content": "What does VoIP allow you to do?",
+      "type": "OBJ",
+      "options": [
+        "Make voice calls over the internet",
+        "Plant crops faster",
+        "Store food longer",
+        "Drive a tractor"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>VoIP Explained</h4><p>VoIP (Voice over Internet Protocol) lets you <strong>make phone calls using the internet</strong>. Apps like Skype and WhatsApp calls use VoIP. It's often free or very cheap.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Make voice calls over the internet"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Microsoft Excel",
+      "Cell Referencing"
+    ],
+    "Question": {
+      "content": "In Excel, what is a \"cell\"?",
+      "type": "OBJ",
+      "options": [
+        "A prison room",
+        "The box where you enter data in a spreadsheet",
+        "A type of crop storage",
+        "A computer virus"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Excel Cells</h4><p>A <strong>cell</strong> is the small rectangular box in Excel where you type numbers, text, or formulas. Each cell has an address like A1 or B2.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The box where you enter data in a spreadsheet"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Blogging",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What is a blog?",
+      "type": "OBJ",
+      "options": [
+        "A type of farm animal",
+        "A website where someone regularly posts articles or updates",
+        "A computer virus",
+        "A farming tool"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Blogging</h4><p>A <strong>blog</strong> is like an online diary or journal where someone shares information regularly. Farmers can blog about their experiences, techniques, and success stories.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A website where someone regularly posts articles or updates"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "File Formats",
+      "Graphic Design"
+    ],
+    "Question": {
+      "content": "If you want to share a farm poster and make sure it looks the same on any computer, which file format should you use?",
+      "type": "OBJ",
+      "options": [
+        ".docx",
+        ".pdf",
+        ".xlsx",
+        ".txt"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>PDF Format</h4><p><strong>PDF (Portable Document Format)</strong> keeps your document looking exactly the same on any device. It's perfect for sharing posters, flyers, and reports that shouldn't change appearance.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": ".pdf"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Social Networking",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "What is the main purpose of social networking?",
+      "type": "OBJ",
+      "options": [
+        "To play games alone",
+        "To connect and communicate with other people",
+        "To edit videos",
+        "To write documents"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social Networking Purpose</h4><p>Social networking is about <strong>connecting with people</strong>. Platforms like Facebook, LinkedIn, and WhatsApp help farmers build communities, share knowledge, and find markets.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To connect and communicate with other people"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Ribbon",
+      "Microsoft Excel"
+    ],
+    "Question": {
+      "content": "In Microsoft Office, where are the main commands like Save, Copy, and Paste located?",
+      "type": "OBJ",
+      "options": [
+        "On the Ribbon at the top",
+        "On the back of the computer",
+        "Inside the computer case",
+        "On the mouse"
+      ]
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Ribbon</h4><p>The <strong>Ribbon</strong> is the strip at the top of Word, Excel, and PowerPoint. It contains all the main commands organized in tabs like Home, Insert, and Design, making them easy to find.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "On the Ribbon at the top"
+    }
+  }
+]
